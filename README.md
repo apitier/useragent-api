@@ -8,7 +8,6 @@ Parses any User Agent string to detect Browser, Engine, OS, CPU, and Device type
 * **Detect Browser, Engine**
 * **Detect OS, CPU, and Device**
 * **Generate realistic Random UserAgent**
-* **Disposable Email Check**
 * **Lightening Fast Response**
 * **Relatively Small Footprintk**
 * **Simple RESTFUL API**
