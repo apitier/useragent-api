@@ -28,7 +28,7 @@ Example Use Cases -
 ## Pricing
 We have simple Pay As You Go Pricing Plans starts at minimum **$9**, with a year validity.
 
-Very affordable pricing, each User Agent API request costs **3 Requests for 1 Cents** irrespective of the plan.
+Very affordable pricing, each User Agent API request costs **10 Requests for 1 Cents** irrespective of the plan.
 
 Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
 
