@@ -2,7 +2,7 @@
 Parses any User Agent string to detect Browser, Engine, OS, CPU, and Device type/model, etc.
 
 
-[Get a free API access key](https://www.theapibridge.com/signup) for trial requests.
+[Get a free API access key](https://www.apitier.com/signup) for trial requests.
 
 ## API Features
 * **Detect Browser, Engine**
@@ -30,13 +30,13 @@ We have simple Pay As You Go Pricing Plans starts at minimum **$9**, with a year
 
 Very affordable pricing, each User Agent API request costs **10 Requests for 1 Cents** irrespective of the plan.
 
-Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
+Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.apitier.com/signup)
 
 ## Documentation
-An extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.theapibridge.com).
+An extensive API documentation, including code examples and extensive descriptions can be found [here](https://docs.apitier.com).
 
 ## Customer Support
-For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
+For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@apitier.com).
 
 ## Legal
-All usage of the theapibridge Developer Portal, API, and services is subject to the theapibridge [Terms & Conditions](https://www.theapibridge.com/legal/terms-of-service).
+All usage of the API Tier Developer Portal, API, and services is subject to the API Tier [Terms & Conditions](https://www.apitier.com/legal/terms-of-service).
